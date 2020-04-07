@@ -1,6 +1,7 @@
 nav{
   background-color: blue;
   overflow: hidden;
+  width: 100%;
 }
 
 nav li{
