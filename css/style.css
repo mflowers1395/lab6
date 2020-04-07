@@ -1,23 +1,21 @@
-nav{
-background-color: blue;
-overflow: hidden;
-width: 100%;
+#main-navbar{
+  background-color: blue;
 }
 
-nav ul{
-margin: 0;
-padding: 0;
-
+#navbar-container{
+  float: left;
+  width: 100%
+  position: relative;
+  text-align: center;
 }
 
-nav ul li{
-list-style-type: none;
+#main-navbar{
+  overflow: hidden;
 }
 
-nav ul li a{
-
-}
-
-nav ul li a:hover{
-
+#main-navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
 }
