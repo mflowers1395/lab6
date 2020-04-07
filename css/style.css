@@ -51,7 +51,11 @@
 
 
 #main-sidebar{
-  background-color: red;
+  height:100%;
+	width:20%;
+	position:fixed;
+	background-color:red;
+  right:0%;
 }
 
 #sidebar-container{
