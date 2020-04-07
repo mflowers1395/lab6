@@ -5,10 +5,12 @@ nav{
 
 nav ul{
 overflow: hidden;
+padding: 0;
+margin: 0;
 }
 
 nav li{
-
+width: 100%;
 }
 
 nav li a{
