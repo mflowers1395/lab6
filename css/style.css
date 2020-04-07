@@ -33,3 +33,8 @@
 #main-navbar ul li a:hover{
   background-color: #000;
 }
+
+#main-navbar #onpage{
+  text-decoration: underline;
+  background-color none;
+}
