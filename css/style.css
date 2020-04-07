@@ -46,14 +46,14 @@
 	display:block;
 }
 
-#main-sidebar{
+#sidebar{
   background-color: red;
-}
-
-#sidebar-container{
   width: 20%
   height: 100%
   position: fixed;
+}
+
+#sidebar-container{
   text-align: center;
 }
 
