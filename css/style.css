@@ -54,43 +54,43 @@
   background-color: red;
 }
 
-#navbar-container{
+#sidebar-container{
   width: 100%
   position: relative;
   text-align: center;
 }
 
-#main-navbar{
+#main-sidebar{
   overflow: hidden;
 }
 
-#main-navbar ul{
+#main-sidebar ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
   display: inline-block;
 }
 
-#main-navbar ul li{
+#main-sidebar ul li{
   float: left;
 }
 
-#main-navbar ul li a{
+#main-sidebar ul li a{
   display: block;
   padding: 10px 20px;
   color: #fff;
   text-decoration: none;
 }
 
-#main-navbar ul li a:hover{
+#main-sidebar ul li a:hover{
   background-color: #000;
 }
 
-#main-navbar #onpage{
+#main-sidebar #onpage{
   text-decoration: underline;
 }
 
-#navbar-container
+#sidebar-container
 {
 	float:left;
 	left:40%;
