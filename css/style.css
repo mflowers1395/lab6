@@ -3,6 +3,7 @@ nav{
   overflow: hidden;
   width: 100%;
   position: relative;
+  list-style-type: none;
 }
 
 nav li{
