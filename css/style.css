@@ -55,8 +55,9 @@
 }
 
 #sidebar-container{
-  width: 100%
-  position: relative;
+  height: : 100%
+  width: 20%;
+  position: fixed;
   text-align: center;
 }
 
@@ -66,18 +67,17 @@
 
 #main-sidebar ul{
   list-style-type: none;
-  margin: 0;
   padding: 0;
   display: inline-block;
 }
 
 #main-sidebar ul li{
-  float: left;
+  right: 0%;
 }
 
 #main-sidebar ul li a{
   display: block;
-  padding: 10px 20px;
+  padding: 15px 0;
   color: #fff;
   text-decoration: none;
 }
@@ -86,9 +86,6 @@
   background-color: #000;
 }
 
-#main-sidebar #onpage{
-  text-decoration: underline;
-}
 
 #sidebar-container
 {
