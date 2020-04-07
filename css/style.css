@@ -45,3 +45,55 @@
 	position:relative;
 	display:block;
 }
+
+
+
+
+
+#main-sidebar{
+  background-color: red;
+}
+
+#navbar-container{
+  width: 100%
+  position: relative;
+  text-align: center;
+}
+
+#main-navbar{
+  overflow: hidden;
+}
+
+#main-navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+#main-navbar ul li{
+  float: left;
+}
+
+#main-navbar ul li a{
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+#main-navbar ul li a:hover{
+  background-color: #000;
+}
+
+#main-navbar #onpage{
+  text-decoration: underline;
+}
+
+#navbar-container
+{
+	float:left;
+	left:40%;
+	position:relative;
+	display:block;
+}
