@@ -58,7 +58,6 @@
   text-align: center;
 }
 
-}
 
 #sidebar-container ul li a{
   display: block;
@@ -71,4 +70,7 @@
   padding:0;
   list-style-type: none;
   display:block;
+}
+#sidebar-container ul li a:hover{
+  background-color: #000;
 }
