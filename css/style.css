@@ -1,8 +1,7 @@
 nav{
-  margin:0;
-  padding:0;
-  text-align:center;
-  background-color: pink;
+  position: relative;
+  background-color: blue;
+  overflow: hidden;
 }
 
 nav ul li{
