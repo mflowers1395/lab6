@@ -35,6 +35,6 @@
 }
 
 #main-navbar #onpage{
-  text-decoration: underline;
+  text-decoration: underline overline;
   background-color none;
 }
