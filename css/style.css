@@ -4,3 +4,7 @@ nav{
   text-align:center;
   background-color: pink;
 }
+
+nav ul li{
+  display: inline-block;
+}
